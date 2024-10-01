@@ -56,7 +56,7 @@ const Contact = () => {
     return (
         <section className="c-space my-20">
             <div className="relative min-h-screen flex items-center justify-center flex-col">
-                <img src="/assets/terminal.png" alt="terminal-bg" className="absolute inset-0 min-h-screen"/>
+                <img src="/assets/terminal.png" alt="terminal-bg" className="absolute inset-0 min-h-screen" />
 
                 <div className="contact-container">
                     <h3 className="head-text">Let's talk</h3>
@@ -74,7 +74,7 @@ const Contact = () => {
                                 onChange={handleChange}
                                 required
                                 className="field-input"
-                                placeholder="John Doe"
+                                placeholder="ex., John Doe"
                             />
                         </label>
                         <label className="space-y-3">
@@ -86,7 +86,7 @@ const Contact = () => {
                                 onChange={handleChange}
                                 required
                                 className="field-input"
-                                placeholder="johndoe@gmail.com"
+                                placeholder="ex., johndoe@gmail.com"
                             />
                         </label>
                         <label className="space-y-3">
@@ -96,9 +96,9 @@ const Contact = () => {
                                 value={form.message}
                                 onChange={handleChange}
                                 required
-                                rows={5}
+                                rows={3}
                                 className="field-input"
-                                placeholder="Hi, I wanna give you a job..."
+                                placeholder="Let's connect..."
                             />
                         </label>
 
