@@ -6,6 +6,8 @@ This is a 3D portfolio project built to showcase projects, skills, and work expe
 ## Tech Stack
 - **React.js** - Frontend framework for building UI components.
 - **Three.js** - A JavaScript library used to render 3D graphics in the browser.
+- **React Three Fiber** - React renderer for Three.js, simplifying 3D development.
+- **React Three Drei** - Utilities for managing common tasks in React Three Fiber.
 - **Tailwind CSS** - Utility-first CSS framework for styling the application.
 - **Vite** - Fast build tool used for bundling and serving the application.
 
