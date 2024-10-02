@@ -229,7 +229,7 @@ export const navLinks = [
       pos: 'IT Instructor',
       duration: '2023 - Present',
       title: "Responsible for planning and delivering online instruction, including lectures, code-along sessions, demonstrations, and classroom discussions. Instructors assign and grade activities and projects, while maintaining a safe, professional, and inclusive learning environment. Additionally, they participate in team initiatives and manage student behavior effectively.",
-      icon: '/assets/framer.svg',
+      icon: '/assets/zuitt.jpg',
       animation: 'victory',
     }
   ];
